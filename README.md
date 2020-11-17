@@ -1,10 +1,10 @@
-<!--
- * @Author: Fuxi
- * @Description: 
- * @Date: 2020-11-16 20:05:54
- * @LastEditors: fuxi
- * @LastEditTime: 2020-11-16 20:07:30
--->
 # MaskLib
 
-general image process package
+pytorch utils for getting face mask (face segmentation)
+
+Pytorch人脸分割工具
+
+**运行代码**
+```shell
+python demo.py
+```
